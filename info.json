@@ -1,0 +1,9 @@
+{
+  "name": "Liquid Resources",
+  "version": "1.0.0",
+  "title": "Liquid-Resources",
+  "author": "Kasandraen",
+  "homepage": "-",
+  "dependencies": ["base"],
+  "description": "Liquid Resources for crafting"
+}
